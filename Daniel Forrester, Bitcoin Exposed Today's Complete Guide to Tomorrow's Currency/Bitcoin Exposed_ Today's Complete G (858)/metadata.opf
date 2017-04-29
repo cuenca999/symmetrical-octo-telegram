@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">585d4f67-d960-4479-af7a-526a193b51c9</dc:identifier>
+        <dc:title>Bitcoin Exposed: Today's Complete Guide to Tomorrow's Currency</dc:title>
+        <dc:creator opf:file-as="Forrester, Daniel &amp; Solomon, Mark" opf:role="aut">Daniel Forrester</dc:creator>
+        <dc:creator opf:file-as="Forrester, Daniel &amp; Solomon, Mark" opf:role="aut">Mark Solomon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.12.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-31T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Everyone's Been Asking - What is Bitcoin?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Learn the Ins and Outs of Bitcoin - the elusive new currency, including Bitcoin Mining, how to buy, sell and invest, and how you can achieve long term profits!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bitcoin has been brooding within the tech community over the last few years. However, within the past few months, &lt;strong&gt;Bitcoin has exploded &lt;/strong&gt;into the mainstream and is being covered in every notable new source with commentary almost everyday.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What is this mysterious currency?&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Most people (even those doing the reporting) understand very little about this internet phenomenon. Bitcoin is a decentralized "crypto-currency" that puts the power in the hands of the people and takes it away from the banks and government.&lt;/p&gt;&lt;p&gt;Learn the ins and outs of Bitcoin. This book, Bitcoin Exposed, will teach you how to quickly get set-up with a Bitcoin account and reap all the rewards of this online currency. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bitcoin Exposed will teach you how to:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Quickly get set-up with a Bitcoin wallet&lt;/li&gt;&lt;li&gt;Buy goods over the internet with the click of a mouse&lt;/li&gt;&lt;li&gt;Transfer money to friends&lt;/li&gt;&lt;li&gt;Make completely anonymous transactions&lt;/li&gt;&lt;li&gt;Bitcoin Mining and how to become a "Bitcoin Miner"&lt;/li&gt;&lt;li&gt;Profit with Bitcoins and investing secrets&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Our &lt;strong&gt;BONUS Insight:&lt;/strong&gt; An in-depth analysis of the current problems and potential pitfalls of Bitcoin, as well as the exponential profits early investors may reap from acquiring Bitcoins now.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Note from Authors - Mark Solomon &amp;amp; Daniel Forrester&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Bitcoin is not just a way for hackers to buy obscure products on the internet. It has evolved into a robust, versatile online currency that anyone can use to buy products, trade, or increase their business's sales potential. Reap the benefits of becoming an expert on this new currency with this new tell-all book"&lt;/em&gt;&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grassroot Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781489598660</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1489598669</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00COYR4XQ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">17936730</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Daniel Forrester&quot;: &quot;&quot;, &quot;Mark Solomon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="4" name="calibre:rating"/>
+        <meta content="2013-12-01T15:26:34.549000+00:00" name="calibre:timestamp"/>
+        <meta content="Bitcoin Exposed: Today's Complete Guide to Tomorrow's Currency" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

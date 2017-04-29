@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">863ca2d2-0184-47e7-ac88-2312ea31369e</dc:identifier>
+        <dc:title>Bitcoin Beginner: A Step By Step Guide To Buying, Selling And Investing In Bitcoin</dc:title>
+        <dc:creator opf:file-as="Patterson, Sam" opf:role="aut">Patterson, Sam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Uploaded by [StormRG]&lt;/b&gt;</dc:description>
+        <dc:publisher>Better Life Publishers</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00DKLZLB4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Patterson, Sam&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="2014-04-10T23:58:13+00:00" name="calibre:timestamp"/>
+        <meta content="Bitcoin Beginner: A Step By Step Guide To Buying, Selling And Investing In Bitcoin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Bitcoin Beginner_ A Step By Step Guide To Buying, Selling And Investing In Bitcoin - Patterson, Sam.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
